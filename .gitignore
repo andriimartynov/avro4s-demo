@@ -1,0 +1,17 @@
+/.idea/
+/.bsp/
+/build/
+/logs/
+/target/
+/bin/
+/.project
+/.classpath
+/.settings/
+/classes/
+project/target
+/profile_view_updater-protocol/build
+/profile_view_updater-protocol-test/out
+/profile_view_updater-protocol-test/build
+out
+generated-wsdl/
+.hydra/
